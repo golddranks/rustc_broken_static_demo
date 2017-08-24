@@ -1,0 +1,6 @@
+[package]
+name = "rustc_broken_static_demo"
+version = "0.1.0"
+authors = ["Kontio Pyry <kontio@r.recruit.co.jp>"]
+
+[dependencies]
